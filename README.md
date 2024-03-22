@@ -3,6 +3,10 @@
 
 This project is a simple shopping cart application built using React with Redux for state management. It features two main pages: the home page displaying products fetched from a fake API, and the cart page where users can view and manage their selected items.
 
+## Preview Live
+
+[Shopping Cart](https://hidoreen.github.io/shopping-cart/)
+
 ## Features
 
 - Home Page: Displays a list of products fetched from a fake API.
